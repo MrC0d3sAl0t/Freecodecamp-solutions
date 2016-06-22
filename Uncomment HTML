@@ -1,0 +1,10 @@
+<!-- Removing the comment tag to reveal our h1,h2, and p tags, commenting tags is a method to hide code that
+     we want to keep hidden from our web browsers. With commenting tags the braowser will ignore the code, commenting 
+     in general is ignored by the browser it is used by the coder to help understand what each line of code is suppoed to do //-->
+     
+<!-- I removed the "<!--" and the ending "-->" to have functioning code -->     
+<h1>Hello World</h1>
+
+<h2>CatPhotoApp</h2>
+
+<p>Hello Paragraph</p>
