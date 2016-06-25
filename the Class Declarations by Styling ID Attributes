@@ -1,0 +1,21 @@
+<style>
+  body {
+    background-color: black;
+    font-family: Monospace;
+    color: green;
+  }
+  .pink-text {
+    color: pink;
+  }
+  .blue-text {
+    color: blue;
+  }
+  #orange-text {
+    color: orange;
+  }
+</style>
+<h1 id="orange-text"class="pink-text blue-text">Hello World!</h1>
+
+
+<!-- To override class declaration, we create a new css class "orange-text" with the color attribute of orange. Then we add the class id to our h1
+     tag id="orange-text" while leaving the original class colors intact this allows us to over the colors class with the id class. -->
